@@ -1,0 +1,23 @@
+{
+	"name": "voc",
+	"version": "0.0.1",
+	"author": "Niggler",
+	"description": "Generalized Literate Programming Framework",
+	"bin": {
+		"voc": "./voc.njs"
+	},
+	"keywords": ["literate", "programming", "voc", "javascript"],
+	"main": "voc.js",
+	"dependencies": {
+		"marked":"",
+		"coffee-script":""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Niggler/voc.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Niggler/voc/issues"
+	},
+	"preferGlobal": true
+}
