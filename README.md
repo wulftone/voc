@@ -15,6 +15,8 @@ source if needed):
 <script src="http://coffeescript.org/extras/coffee-script.js"></script>
 ```
 
+This exposes a VOC object.  See scriptify.js.md for a sample in-browser use-case.
+
 The included `voc.njs` (which will install as `voc`) will read JS/coffee:
 
 ```js_noshow
